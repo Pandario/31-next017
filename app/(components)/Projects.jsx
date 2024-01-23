@@ -95,12 +95,13 @@ function Projects() {
                         <h3 className="text-xl font-semibold text-center pt-1">Camp Website</h3>
 
                         <p className="p-4 text-gray-500 font-mono text-start">
-                            This is my camp website with re-usable form-elements 
-                            which connetcted to real separate databases. Also 404 page, router and etc.
+                            Backend website! Reusable form-elements connetcted to real separate 
+                            databases, mongoose, schemas. Also 404 page, router and etc.
+                            NOT responsive one! Just backend.
                         </p>
 
                         <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold mb-4 mt-2 mx-16 py-1  px-4 rounded">
-                                <a href="https://29-next015.vercel.app/" target="_blank">See Details</a>
+                                <a href="https://27-next011.vercel.app/" target="_blank">See Details</a>
                         </button>
                     </div>
 
@@ -123,7 +124,7 @@ function Projects() {
                         </p>
 
                         <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold mb-4 mt-2 mx-16 py-1  px-4 rounded">
-                                <a href="https://27-next011.vercel.app/" target="_blank">See Details</a>
+                                <a href="https://29-next015.vercel.app/" target="_blank">See Details</a>
                         </button>
                     </div>
 
