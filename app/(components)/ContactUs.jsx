@@ -56,7 +56,7 @@ function ContactUs() {
             <a href="https://github.com/Pandario">
                     <FaGithub className=" hover:text-indigo-700 text-xl" />
                   </a>
-                  <Link href="https://github.com/yourusername" target="_blank" className=" hover:text-indigo-700 text-xl">Pandario</Link>
+                  <Link href="https://github.com/Pandario" target="_blank" className=" hover:text-indigo-700 text-xl">Pandario</Link>
             </div>
             <p className="mb-4 text-2xl">You can visit my LinkedIn:</p>
             <div className="flex items-center space-x-3 mb-6">
