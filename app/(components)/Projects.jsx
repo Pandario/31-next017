@@ -30,7 +30,7 @@ function Projects() {
                         </p>
 
                         <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold mb-4 mt-2 mx-16 py-1  px-4 rounded">
-                                <a href="/">See Details</a>
+                                <a href="https://31-next017.vercel.app/">See Details</a>
                         </button>
                     </div>
 
@@ -57,12 +57,33 @@ function Projects() {
                         </button>
                     </div>
                 
-                
-                    <div className="flex flex-col w-64  my-1 shadow-lg rounded-lg">
+                    <div className="flex flex-col w-64   my-1 shadow-lg rounded-lg">
                         {/* Project 3 */}
                     
                         <Image
-                            src="/img/projects/boat2.jpg"
+                            src="/img/projects/proj3fiber.png"
+                            width={256}
+                            height={100}
+                            alt="Picture of the author"
+                            className="order-first lg:order-none items-center rounded-lg"
+                            />
+
+                            <h3 className="text-xl font-semibold text-center pt-1">3fiber project</h3>
+
+                            <p className="p-4 text-gray-500 font-mono text-start">
+                            Trying 3fiber react. Can load a bit long. First planet 3d model.
+                            Second - just 2d image. When it stops can spin with mouse. Yep. Pizza-planet.   
+                            </p>
+
+                        <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold mb-4 mt-2 mx-16 py-1  px-4 rounded">
+                                <a href="https://31-nex019.vercel.app/" target="_blank">See Details</a>
+                        </button>
+                    </div>
+                    <div className="flex flex-col w-64  my-1 shadow-lg rounded-lg">
+                        {/* Project 4 */}
+                    
+                        <Image
+                            src="/img/projects/projsanity.png"
                             width={256}
                             height={100}
                             alt="Picture of the author"
@@ -82,7 +103,7 @@ function Projects() {
                     </div>
 
                     <div className="flex flex-col w-64  my-1 shadow-lg rounded-lg">
-                        {/* Project 4 */}
+                        {/* Project 5 */}
                     
                         <Image
                             src="/img/projects/proj2.png"
@@ -106,7 +127,7 @@ function Projects() {
                     </div>
 
                     <div className="flex flex-col w-64   my-1 shadow-lg rounded-lg">
-                        {/* Project 5 */}
+                        {/* Project 6 */}
                     
                         <Image
                             src="/img/projects/proj3.png"
@@ -131,27 +152,7 @@ function Projects() {
 
                     
 
-                    <div className="flex flex-col w-64   my-1 shadow-lg rounded-lg">
-                        {/* Project 6 */}
                     
-                        <Image
-                            src="/img/projects/boat2.jpg"
-                            width={256}
-                            height={100}
-                            alt="Picture of the author"
-                            className="order-first lg:order-none items-center rounded-lg"
-                        />
-                        
-                        <h3 className="text-xl font-semibold text-center pt-1">In progress</h3>
-
-                        <p className="p-4 text-gray-500 font-mono text-start">
-                            Webshop with sanity. Working on it. 
-                        </p>
-
-                        <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold mb-4 mt-2 mx-16 py-1  px-4 rounded">
-                                <a>See Details</a>
-                        </button>
-                    </div>
                 </div>
         </div>
     </div>
