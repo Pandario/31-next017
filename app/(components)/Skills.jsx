@@ -12,11 +12,10 @@ function Skills() {
                     <TbBrandNextjs className="text-5xl pb-4" />
                     <h3 className="text-xl font-semibold">Fullstack</h3>
                     <p className="p-4 text-gray-500 font-mono">
-                        Right now I diving deep into nextjs. 
+                        Right now working with new nextjs/typescript. 
                         Working with nextauth, with mongodb,
                         with admin panels, credentials, mailsenders. 
-                        Trying to work more with backend. Also deploying on Vercel.
-                        Next step - deeper understanding of aws and azure.
+                        Trying dive deeper with backend, aws and azure.
                         
                     </p>
                 </div>

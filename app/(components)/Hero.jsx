@@ -46,8 +46,8 @@ function Hero() {
                 <div className="flex flex-col  p-4 my-1 shadow-lg rounded-lg">
 
                     <h1 className="text-3xl font-bold mb-4 text-center">I&apos;m Andrew {':)'}</h1>
-                    <h3 className="text-xl mb-2">I make some websites, trying to become fullstack or frontend developer.</h3>
-                    <h5 className="text-xl mb-2">So. What we have here? Responsive nextjs website, tailwind, grid, nice navbar  
+                    <h3 className="text-xl mb-2">I make some websites, working as frontend and fulstack developer.</h3>
+                    <h5 className="text-xl mb-2">So. What we have here? Quick-built projects to show technologies I&apos;m working with. Responsive nextjs website, tailwind, grid, nice navbar  
                     {' (especially in mobile version)'}, amazing return-up button and etc.</h5>
                     <h5 className="text-xl mb-2">Projects section - all real. 
                         You can find ReadMe in my github or! in &apos;Sanity project&apos;.</h5>
